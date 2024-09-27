@@ -18,9 +18,9 @@
   <p align="center">
     <img src="polaris.gif" alt="animated" />
   </p>
+  
+</div>
 
 ## Acknowledgement
 * We appreciate Prof. [Jinhwan Kim](http://morin.kaist.ac.kr/members.html)'s [MORIN group](http://morin.kaist.ac.kr/home.html), particularly [Dongha Chung](https://scholar.google.com/citations?user=bqcPhkUAAAAJ&hl=ko&oi=ao), for publishing the [Pohang Canal Dataset](https://sites.google.com/view/pohang-canal-dataset/home?authuser=0).
-  
-</div>
 
