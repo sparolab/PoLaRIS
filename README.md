@@ -1,6 +1,6 @@
 <div align="center">
   <h1>PoLaRIS Datasets</h1>
-  <a href="https://sites.google.com/view/lidar-solid"><img src="https://github.com/sparolab/Joint_ID/blob/main/fig/badges/badge-website.svg" alt="Project" /></a>
+  <a href="https://sites.google.com/view/polaris-dataset"><img src="https://github.com/sparolab/Joint_ID/blob/main/fig/badges/badge-website.svg" alt="Project" /></a>
   <br />
   <br />
   
