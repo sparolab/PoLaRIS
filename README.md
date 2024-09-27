@@ -23,6 +23,11 @@
   
 </div>
 
+## Special Thanks
+* [Pohang Canal Dataset](https://github.com/dhchung/pohang_canal_dataset)
+* [Field Scale](https://github.com/HyeonJaeGil/fieldscale) (TIR normalization)
+* [GSAD](https://github.com/jinnh/GSAD) (RGB Night to Day)
+
 ## Acknowledgement
 * We appreciate Prof. [Jinhwan Kim](http://morin.kaist.ac.kr/members.html)'s [MORIN group](http://morin.kaist.ac.kr/home.html), particularly [Dongha Chung](https://scholar.google.com/citations?user=bqcPhkUAAAAJ&hl=ko&oi=ao), for publishing the [Pohang Canal Dataset](https://sites.google.com/view/pohang-canal-dataset/home?authuser=0).
 
