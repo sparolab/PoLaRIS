@@ -4,7 +4,7 @@
   <br />
   <br />
   
-**(Under Review) [IEEE ICRA 25]** This repository is the official code for.
+**(Under Review) [IEEE ICRA 25]** This repository is the official code for PoLaRIS:A Pohang Canal Object Detection and Tracking Dataset in Maritime Environments.
 
   <a href="https://scholar.google.com/citations?user=wL8VdUMAAAAJ&hl=ko" target="_blank">Jiwon Choi</a><sup></sup>,
   <a href="" target="_blank">Dongjin Cho</a><sup></sup>,
