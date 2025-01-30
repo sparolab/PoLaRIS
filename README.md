@@ -27,7 +27,7 @@
 </div>
 
 ## Download
-* [Download Link](https://www.dropbox.com/scl/fo/zjhnywm0bpnqg3gd1glah/AKz15CfomaCEESbk2_AsUK4?rlkey=r431hxt3j1a30giiqpnb9r2ei&e=1&st=vzr7gvy8&dl=0)
+* [Download Link](https://docs.google.com/forms/d/e/1FAIpQLSeXqji_9KVj6SEk3lYVewzi_krMeQNNen2r2E9ZCAwKhPfNwQ/viewform)
 * Currently, we provide multi-modal annotations about the sequence of 00 and 01. After a review process, we provide all sequence annotations. 
 
 ## Citation
