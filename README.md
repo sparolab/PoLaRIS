@@ -1,7 +1,7 @@
 <div align="center">
   <h1>PoLaRIS Datasets</h1>
   <a href="https://arxiv.org/abs/2412.06192"><img src="https://img.shields.io/badge/arXiv-2412.06192-b31b1b.svg?style=flat-square" alt="Arxiv" /></a>
-  <a href="[https://sites.google.com/view/polaris-dataset](https://sparolab.github.io/research/polaris/index.html)"><img src="https://github.com/sparolab/Joint_ID/blob/main/fig/badges/badge-website.svg" alt="Project" /></a>
+  <a href="https://sparolab.github.io/research/polaris/index.html"><img src="https://github.com/sparolab/Joint_ID/blob/main/fig/badges/badge-website.svg" alt="Project" /></a>
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSeXqji_9KVj6SEk3lYVewzi_krMeQNNen2r2E9ZCAwKhPfNwQ/viewform"><img src="https://img.shields.io/badge/Download-Link-limegreen" alt="Project" /></a>
   <br />
   <br />
